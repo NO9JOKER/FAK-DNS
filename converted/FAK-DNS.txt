@@ -1,7 +1,4 @@
-tls://dns.google
-https://dns11.quad9.net/dns-query
-https://1.1.1.1/dns-query
-https://cloudflare-dns.com/dns-query
+192.168.11.5
 [/0.xn--czrs0t/]tls://dns.alidns.com
 https://dns.pub/dns-query
 [/0.xn--unup4y/]tls://dns.alidns.com
